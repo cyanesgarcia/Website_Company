@@ -1,0 +1,56 @@
+.container{
+	max-width: 1140px;
+	width: 100%;
+	text-align:center;
+}
+
+a img {border: none; }
+
+a:link {
+	color: #DDDDDD;
+	text-decoration: none;
+}
+a:visited {
+	color: #DDDDDD;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFFF99;
+	text-decoration: none;
+}
+
+a:active {
+	text-decoration: none;
+}
+main .container .img1 img{
+	width:200px;
+	height:200px;
+}
+
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	color: #99e4ff;
+	background-color: #330014;
+}
+
+nav .container{
+   background: #00394d;
+	
+}
+main .container {
+	background-color: #330014;
+		
+}
+main .container .row img {
+	padding-top: 15px;
+
+}
+main .container .row.second {
+	padding-top: 15px;
+}
+
+main .container .row p {
+		text-align:left;
+		padding-left: 15px;
+}
